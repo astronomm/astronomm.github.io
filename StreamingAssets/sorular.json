@@ -1,0 +1,53 @@
+{
+  "dersAnlatimi": [
+    {
+      "dersMetni": "Merhaba arkadaşlar, bugün kimya dünyasına bir giriş yapacağız ve 'Madde ve Özellikleri' konusunu öğreneceğiz.",
+      "sesKaydiYolu": "Sesler/Ders/Kimya/kimya_giris"
+    },
+    {
+      "dersMetni": "Maddenin katı, sıvı ve gaz olmak üzere üç temel hali vardır. Örneğin, buz katı, su sıvı, su buharı ise gaz halidir.",
+      "sesKaydiYolu": "Sesler/Ders/Kimya/maddenin_halleri"
+    },
+    {
+      "dersMetni": "Saf maddeler, elementler ve bileşikler olarak ikiye ayrılır. Elementler, demir gibi tek tür atomdan oluşur. Bileşikler ise su gibi farklı tür atomların birleşmesiyle oluşur.",
+      "sesKaydiYolu": "Sesler/Ders/Kimya/element_bilesik"
+    }
+  ],
+  "sorular": [
+    {
+      "soruMetni": "Kütlesi ve hacmi olan her şeye ne ad verilir?",
+      "cevaplar": [],
+      "dogruCevapIndexi": 0,
+      "sesKaydiYolu": "Sesler/Sorular/Kimya/soru1_madde",
+      "dogruCevapMetni": "Madde"
+    },
+    {
+      "soruMetni": "Suyun katı haline ne denir?",
+      "cevaplar": [],
+      "dogruCervapIndexi": 0,
+      "sesKaydiYolu": "Sesler/Sorular/Kimya/soru2_buz",
+      "dogruCevapMetni": "Buz"
+    },
+    {
+      "soruMetni": "Tek bir tür atomdan oluşan saf maddelere ne denir?",
+      "cevaplar": [],
+      "dogruCevapIndexi": 0,
+      "sesKaydiYolu": "Sesler/Sorular/Kimya/soru3_element",
+      "dogruCevapMetni": "Element"
+    },
+    {
+      "soruMetni": "İki hidrojen ve bir oksijen atomunun birleşmesiyle oluşan hayat kaynağı bileşiğin adı nedir?",
+      "cevaplar": [],
+      "dogruCevapIndexi": 0,
+      "sesKaydiYolu": "Sesler/Sorular/Kimya/soru4_su",
+      "dogruCevapMetni": "Su"
+    },
+    {
+      "soruMetni": "Soluduğumuz hava, maddenin hangi halindedir?",
+      "cevaplar": [],
+      "dogruCevapIndexi": 0,
+      "sesKaydiYolu": "Sesler/Sorular/Kimya/soru5_gaz",
+      "dogruCevapMetni": "Gaz"
+    }
+  ]
+}
